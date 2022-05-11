@@ -1,5 +1,4 @@
-This code was built as a part of the Assignment 2 - Data, Privacy and Fairness for the course of ECSE 557 Introduction to Ethics of Intelligent Systems.
-Google Colaboratory was used for the entire project. The code `Assignment_2_Part1.ipynb` and `Assignment_2_Part2.ipynb` requires numpy, pandas, matplotlib, seaborn, sklearn, difflib and many more libraries to run. The code for importing these libraries has already been included in the .ipynb file.  
+This code was built as a part of the **Assignment 2 - Data, Privacy and Fairness** for the course of ECSE 557 Introduction to Ethics of Intelligent Systems. Google Colaboratory was used for the entire project. The code `Assignment_2_Part1.ipynb` and `Assignment_2_Part2.ipynb` requires numpy, pandas, matplotlib, seaborn, sklearn, difflib and many more libraries to run. The code for importing these libraries has already been included in the .ipynb file.  
 
 ● Instructions to run the code on Google Colaboratory. 
 
